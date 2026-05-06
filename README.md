@@ -1,4 +1,4 @@
-# HR Employee Resignation Analysis — Root Cause Investigation
+# HR Employee Resignation Analysis — 
 
 ## 📋 Project Overview
 
